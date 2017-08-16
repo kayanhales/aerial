@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Aerial"
+title = "Kayan Hales"
 baseurl = "/"
 theme = "aerial"
 
@@ -14,22 +14,22 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "http://twitter.com/thekaycilla"
 
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://facebook.com/kayanhales"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "Instagram"
+  icon = "instagram"
+  link = "http://instagram.com/kayanhales"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/kayanhales"
 
 [[params.social]]
   medium = "Email"
