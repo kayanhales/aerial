@@ -6,10 +6,15 @@ theme = "aerial"
 [params]
   name = "Kayan Hales"
   about = "Jamaican Tech Consultant based in Detroit, MI &nbsp;&bull;&nbsp; WiT|WoC|WiSTEM &nbsp;&bull;&nbsp; Ask me about APM"
-  copyright = "Untitled"
+  copyright = "Kayan Hales"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "About"
+  icon = "user"
+  link = "https://about.me/kayan.hales"
 
 [[params.social]]
   medium = "Twitter"
@@ -27,11 +32,11 @@ theme = "aerial"
   link = "http://instagram.com/kayanhales"
 
 [[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "https://github.com/kayanhales"
-
-[[params.social]]
   medium = "LinkedIn"
   icon = "linkedin"
-  link = "https://linkedin.com/kayan.hales"
+  link = "https://linkedin.com/in/kayanhales"
+
+[[params.social]]
+  medium = "Behance"
+  icon = "behance"
+  link = "https://www.behance.net/kayanhales"
