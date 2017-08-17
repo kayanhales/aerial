@@ -5,7 +5,7 @@ theme = "aerial"
 
 [params]
   name = "Kayan Hales"
-  about = "Jamaican Tech Consultant based in Detroit, MI &nbsp;&bull;&nbsp; WiT|WoC|WiSTEM &nbsp;&bull;&nbsp; Ask me about APM"
+  about = "Jamaican Tech Consultant based in Detroit, MI &nbsp;&bull;&nbsp; WiT | WoC | WiSTEM &nbsp;&bull;&nbsp; Ask me about APM"
   copyright = "Kayan Hales"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
